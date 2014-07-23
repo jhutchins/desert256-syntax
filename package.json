@@ -2,8 +2,8 @@
   "name": "desert256-syntax",
   "theme": "syntax",
   "version": "0.0.0",
-  "description": "A short description of your syntax theme",
-  "repository": "https://github.com/atom/desert256-syntax",
+  "description": "Syntax theme base on the desert256 color scheme for vim",
+  "repository": "https://github.com/jhutchins/desert256-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
