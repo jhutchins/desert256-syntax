@@ -81,10 +81,16 @@
 }
 
 .keyword {
-  color: @purple;
+  color: @yellow;
 
   &.control {
     color: @red;
+
+    &.repeat,
+    &.conditional,
+    &.statement {
+      color: @yellow;
+    }
   }
 
   &.operator {
